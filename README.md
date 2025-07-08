@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Q (Quick Apinan)
 
-🎯 A Fullstack Django Developer with 1+ year of experience building real-world web apps.
+🎯 A Fullstack Django Developer with 2 years of experience building real-world web apps.
 
 ---
 
