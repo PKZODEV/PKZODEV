@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Q (Quick Apinan)
 
-<!--
-**PKZODEV/PKZODEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A Fullstack Django Developer with 1+ year of experience building real-world web apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 My Tech Stack
+- 🐍 Python, Django, Django REST Framework
+- 🧠 PostgreSQL, SQLite
+- 🌐 HTML, CSS, JavaScript
+- 🖼️ Bootstrap, Tailwind
+- 🔐 JWT Auth, Python Decouple, Postman
+- 🛠️ Git, GitHub, Railway, Docker
+
+------
+
+## 📦 Featured Projects
+
+### 🛒 [E-commerce API](https://github.com/PKZODEV/ecommerce-api.git)
+> Full-featured REST API with JWT, product filtering, shopping cart, and checkout system.
+
+### 📥 [Client Portal System](https://github.com/PKZODEV/CPS_Dev.git)
+> A customer service portal with request tracking, file upload, and admin/staff role support.
+
+### 🗂️ [Trello Clone](https://github.com/PKZODEV/trello_clone_public.git)
+### [PRD LINK] (https://trelloclone-production.up.railway.app/)
+> Trello-style task management system with drag-drop lists and cards.
+
+------
+
+## 📬 Contact
+- ✉️ Email: qapwork24hr@gmail.com
+- 📄 LinkedIn: https://www.linkedin.com/in/apinan-srikanchai-252387286/
